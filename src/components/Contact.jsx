@@ -6,7 +6,7 @@ import 'animate.css'
 import TrackVisibility from 'react-on-screen'
 
 export const Contact = () => {
-	emailjs.init('ant.petit@pm.me')
+	emailjs.init('*****')
 	const formInitialDetails = {
 		firstName: '',
 		lastName: '',
@@ -31,7 +31,7 @@ export const Contact = () => {
 		setButtonText('Envoi en cours...')
 
 		try {
-			await emailjs.sendForm('service_2687', 'template_7wqzb0g', e.target, 'olADdkV-Qdi3ygPlS')
+			await emailjs.sendForm('*****', '*****', e.target, '*****')
 			setFormDetails(formInitialDetails)
 			setStatus({ success: true, message: 'Merci pour votre message ! On vous répondra très bientôt' })
 		} catch {

@@ -16,13 +16,13 @@ export const Footer = () => {
 					</Col>
 					<Col sm={6} className="text-center text-sm-end">
 						<div className="social-icon">
-							<a href="https://www.linkedin.com/in/philippe-devauchelle-85721015a/">
+							<a href="#">
 								<img src={navIcon1} alt='Nous suivre sur LinkedIn'/>
 							</a>
-							<a href="https://www.facebook.com/philippe.devauchelle">
+							<a href="#">
 								<img src={navIcon2} alt='Nous suivre sur Facebook'/>
 							</a>
-							<a href="https://www.instagram.com/philippedevauchelle/">
+							<a href="#">
 								<img src={navIcon3} alt='Nous suivre sur Instagram'/>
 							</a>
 						</div>
@@ -34,11 +34,11 @@ export const Footer = () => {
 							</a>
 						</p>
 						<p>
-							<a href="/legal.html" target="_blank" className="text-white text-decoration-none">
+							<a href="#" target="_blank" className="text-white text-decoration-none">
 								Mentions légales
 							</a>
                             -
-							<a href="/confidentialite.html" target="_blank" className="text-white text-decoration-none">
+							<a href="#" target="_blank" className="text-white text-decoration-none">
 								Politique de Confidentialité
 							</a>
 						</p>

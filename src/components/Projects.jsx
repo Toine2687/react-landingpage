@@ -73,7 +73,7 @@ export const Projects = () => {
 									</Row>
 									<Row className="align-items-center p-5 photoDiv m-3">
 										<Col>
-											<a href="https://antoinepetit.com" target="_blank">
+											<a href="#" target="_blank">
 												<img src={photographer} alt="Photographe Amiens" className="photographerImg mb-4" />
 											</a>
 										</Col>
@@ -81,7 +81,7 @@ export const Projects = () => {
 											<h3>Photographe</h3>
 											<p>Choisissez l'authenticité avec un photographe professionnel spécialisé dans l'événementiel. Capturez des vrais moments significatifs pour créer des souvenirs durables. </p>
 											<p>Comme Concept Evénement, faites confiance à Antoine pour immortaliser votre événement avec sincérité</p>
-											<a href="https://antoinepetit.com" target="_blank" className="text-white text-decoration-none fs-4">
+											<a href="#" target="_blank" className="text-white text-decoration-none fs-4">
 												En savoir plus
 											</a>
 										</Col>

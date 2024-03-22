@@ -49,13 +49,13 @@ export function NavBar() {
 					</Nav>
 					<span className="navbar-text">
 						<div className="social-icon">
-							<a href="https://www.linkedin.com/in/philippe-devauchelle-85721015a/" target="_blank">
+							<a href="#" target="_blank">
 								<img src={navIcon1} alt="" />
 							</a>
-							<a href="https://www.facebook.com/philippe.devauchelle" target="_blank">
+							<a href="#" target="_blank">
 								<img src={navIcon2} alt="" />
 							</a>
-							<a href="https://www.instagram.com/philippedevauchelle/" target="_blank">
+							<a href="#" target="_blank">
 								<img src={navIcon3} alt="" />
 							</a>
 						</div>
